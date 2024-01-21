@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=eWRfhZUzrAc
 - Blackjack Card Game Project
 - Conclusion
 
-⌨️ (0:43:52) Setup Python Locally
-⌨️ (0:47:47) Creating New Repl
+1) Setup Python Locally
+2) Creating New Repl
 ⌨️ (0:48:45) Variables
 ⌨️ (0:51:21) Expressions and Statements 
 ⌨️ (0:52:38) Comments
